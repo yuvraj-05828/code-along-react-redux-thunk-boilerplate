@@ -11,7 +11,7 @@ Use the following command to install redux-thunk: `npm install redux-thunk`
 
 `https://jsonplaceholder.typicode.com/users`
 
-From the givne api, you need to display, the following:
+From the given api, you need to display, the following:
 1. Name of the user.
 2. Email of the user.
 
