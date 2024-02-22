@@ -1,0 +1,17 @@
+*{
+  justify-content: center;
+  width: 100%;
+  background-color: rgb(215, 215, 215);
+}
+button{
+  width: 250px;
+  height: 100px;
+  color: rgba(255, 255, 255, 0.675);
+}
+button:hover{
+  background-color: rgb(226, 195, 195);
+}
+.name-mail{
+  font-size: 25px;
+  color: black;
+}
